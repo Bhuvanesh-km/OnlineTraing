@@ -21,7 +21,7 @@ public class ArraysExample {
 				}
 			}
 		}
-		//Arrays.sort(values);
+		Arrays.sort(values);
 		System.out.println("");
 		System.out.print("array in asscendind order ");
 		for(int i=0;i<values.length;i++)
